@@ -43,12 +43,19 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 # 📁 Project Structure
 
   Road_Accident_Analysis/
+  
   ├── data/
+  
   │   └── road_accidents.csv
+  
   ├── notebooks/
+  
   │   └── Road_Accident_Analysis.ipynb
+  
   ├── visuals/
+  
   │   └── accident_trends.png
+  
   └── README.md
 
 
